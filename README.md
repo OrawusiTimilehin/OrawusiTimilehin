@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrawusiTimilehin
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python Programming
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me oluwatimilehin.orawusi@gmail.com
 
